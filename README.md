@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/muhammad-yusuf-ardabili-9935591b8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/https://instagram.com/myardabili">
+  <a href="https://instagram.com/myardabili">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
